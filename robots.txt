@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://linwj112.github.io/Buffalo-Horn/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Buffalo Horn",
+    "description": "",
+    "home_page_url": "https://linwj112.github.io/Buffalo-Horn",
+    "feed_url": "https://linwj112.github.io/Buffalo-Horn/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lwj"
+    },
+    "items": [
+    ]
+}
