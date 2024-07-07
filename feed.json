@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Test Website",
+    "title": "水牛角鬆沉刮筋",
     "description": "",
     "home_page_url": "https://linwj112.github.io/Buffalo-Horn",
     "feed_url": "https://linwj112.github.io/Buffalo-Horn/feed.json",
@@ -10,34 +10,19 @@
     },
     "items": [
         {
-            "id": "https://linwj112.github.io/Buffalo-Horn/second.html",
-            "url": "https://linwj112.github.io/Buffalo-Horn/second.html",
-            "title": "second",
-            "summary": "test second",
-            "content_html": "<p>test second</p>",
-            "image": "https://linwj112.github.io/Buffalo-Horn/media/posts/2/91042266_941153029635973_1506338553620070400_o.jpg",
+            "id": "https://linwj112.github.io/Buffalo-Horn/yuan-qi.html",
+            "url": "https://linwj112.github.io/Buffalo-Horn/yuan-qi.html",
+            "title": "緣起",
+            "summary": "水牛角鬆沉刮筋緣起",
+            "content_html": "<p>水牛角鬆沉刮筋緣起</p>",
+            "image": "https://linwj112.github.io/Buffalo-Horn/media/posts/1/91042266_941153029635973_1506338553620070400_o.jpg",
             "author": {
                 "name": "lwj"
             },
             "tags": [
             ],
-            "date_published": "2024-07-07T20:06:48+08:00",
-            "date_modified": "2024-07-07T20:07:00+08:00"
-        },
-        {
-            "id": "https://linwj112.github.io/Buffalo-Horn/first.html",
-            "url": "https://linwj112.github.io/Buffalo-Horn/first.html",
-            "title": "First ",
-            "summary": "This is a first test web document. 以下是中文測試",
-            "content_html": "<p>This is a first test web document.</p>\n<p>以下是中文測試</p>\n<p> </p>",
-            "image": "https://linwj112.github.io/Buffalo-Horn/media/posts/1/lycoris_recoil_Qian-Shu.jpg",
-            "author": {
-                "name": "lwj"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-07T19:44:05+08:00",
-            "date_modified": "2024-07-07T19:44:05+08:00"
+            "date_published": "2024-07-07T20:15:25+08:00",
+            "date_modified": "2024-07-07T20:15:25+08:00"
         }
     ]
 }
