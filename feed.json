@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Buffalo Horn",
+    "title": "Test Website",
     "description": "",
     "home_page_url": "https://linwj112.github.io/Buffalo-Horn",
     "feed_url": "https://linwj112.github.io/Buffalo-Horn/feed.json",
@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://linwj112.github.io/Buffalo-Horn/test-website.html",
-            "url": "https://linwj112.github.io/Buffalo-Horn/test-website.html",
-            "title": "Test website",
-            "summary": "This is a test website. The website about 水牛角",
-            "content_html": "<p>This is a test website.</p>\n<p>The website about 水牛角</p>\n<p> </p>",
+            "id": "https://linwj112.github.io/Buffalo-Horn/first.html",
+            "url": "https://linwj112.github.io/Buffalo-Horn/first.html",
+            "title": "First ",
+            "summary": "This is a first test web document. 以下是中文測試",
+            "content_html": "<p>This is a first test web document.</p>\n<p>以下是中文測試</p>\n<p> </p>",
+            "image": "https://linwj112.github.io/Buffalo-Horn/media/posts/1/lycoris_recoil_Qian-Shu.jpg",
             "author": {
                 "name": "lwj"
             },
             "tags": [
             ],
-            "date_published": "2024-07-04T22:24:56+08:00",
-            "date_modified": "2024-07-04T22:30:52+08:00"
+            "date_published": "2024-07-07T19:44:05+08:00",
+            "date_modified": "2024-07-07T19:44:05+08:00"
         }
     ]
 }
